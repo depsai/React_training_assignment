@@ -1,0 +1,16 @@
+.box {
+    border: 2px solid black; /* 2px width, solid style, black color */
+    padding: 20px;
+    width: 400px;
+    justify-content;: center
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+    height: 100vh;            /* Full height of viewport */
+    margin: 0;
+    background-color: #f4f4f4;
+}
